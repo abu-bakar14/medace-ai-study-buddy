@@ -77,14 +77,18 @@ export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()(
     meta: [
       { charSet: "utf-8" },
       { name: "viewport", content: "width=device-width, initial-scale=1" },
-      { title: "Lovable App" },
-      { name: "description", content: "Lovable Generated Project" },
+      { title: "MedAce AI – AI-Powered MBBS Exam Companion" },
+      { name: "description", content: "Prepare smarter for MBBS university, professional, viva and OSPE exams with AI-generated summaries, MCQs, mnemonics, clinical correlations and revision plans." },
       { name: "author", content: "Lovable" },
-      { property: "og:title", content: "Lovable App" },
-      { property: "og:description", content: "Lovable Generated Project" },
+      { property: "og:title", content: "MedAce AI – AI-Powered MBBS Exam Companion" },
+      { property: "og:description", content: "Prepare smarter for MBBS university, professional, viva and OSPE exams with AI-generated summaries, MCQs, mnemonics, clinical correlations and revision plans." },
       { property: "og:type", content: "website" },
       { name: "twitter:card", content: "summary_large_image" },
       { name: "twitter:site", content: "@Lovable" },
+      { name: "twitter:title", content: "MedAce AI – AI-Powered MBBS Exam Companion" },
+      { name: "twitter:description", content: "Prepare smarter for MBBS university, professional, viva and OSPE exams with AI-generated summaries, MCQs, mnemonics, clinical correlations and revision plans." },
+      { property: "og:image", content: "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/d0fd6bbd-9fd5-4bb5-a964-fb633ce21f65/id-preview-6f292285--53847566-ce4e-4b8e-9719-ab9b8e37ac65.lovable.app-1784615525890.png" },
+      { name: "twitter:image", content: "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/d0fd6bbd-9fd5-4bb5-a964-fb633ce21f65/id-preview-6f292285--53847566-ce4e-4b8e-9719-ab9b8e37ac65.lovable.app-1784615525890.png" },
     ],
     links: [
       {

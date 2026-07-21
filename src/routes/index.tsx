@@ -32,7 +32,7 @@ export const Route = createFileRoute("/")({
       {
         property: "og:description",
         content:
-          "AI study companion for MBBS, BDS, Nursing and Allied Health students.",
+          "Prepare smarter for MBBS university, professional, viva and OSPE exams with AI-generated summaries, MCQs, mnemonics, clinical correlations and revision plans.",
       },
     ],
   }),
