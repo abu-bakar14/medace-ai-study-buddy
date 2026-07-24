@@ -102,15 +102,25 @@ The AI is instructed to act as an expert MBBS tutor and generate:
 
 ## 📸 Screenshots
 
-Add screenshots inside a folder named **screenshots**.
+### Home Page
 
-Example:
+![Home](Home.jpeg)
 
-- Home Page
-- Dashboard
-- AI Assistant
-- MCQ Generator
-- Viva Mode
+### AI Assistant
+
+![Assistant](AI%20Assistant.jpeg)
+
+### Dashboard
+
+![Dashboard](Dashboard.jpeg)
+
+### Generated Notes
+
+![Notes](Notes.jpeg)
+
+### About Page
+
+![About](About.jpeg)
 
 ---
 
